@@ -16,12 +16,12 @@
 
 <br/>
 
-### 🔭 Currently Working On
+### Currently Working On
 > **Exploring explainable AI for social network integrity** — adding an interpretability layer to *LegitiCheck*.
 
 <br/>
 
-### 💻 Work & Projects
+### Work & Projects
 
 | Project / Domain | Description | Technologies / Status |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 - **Languages:** Python, SQL
 - **ML / AI:** XGBoost, Deep Learning, NLP, Reinforcement Learning, Ensembles
@@ -41,7 +41,7 @@
 
 <br/>
 
-### 📜 Certifications
+### Certifications
 
 - ✦ **IBM Data Science Professional Certificate**
 - ✦ **Corizo ML Internship Certificate**
