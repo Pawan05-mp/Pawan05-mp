@@ -43,12 +43,12 @@
 
 ### Certifications
 
-- ✦ **IBM Data Science Professional Certificate**
-- ✦ **Corizo ML Internship Certificate**
-- ✦ **Data Analytics Certificate**
-- ✦ **Cloud Foundation Certificate**-*(Ethnotech Academy - A+ Grade)*
-- ✦ **Data Science using Python** — *Brainovision Workshop 2024*
-- ✦ **3× Learning Path Completions** — *(Coursera / LinkedIn Learning)*
+- **IBM Data Science Professional Certificate**
+- **Corizo ML Internship Certificate**
+- **Data Analytics Certificate**
+- **Cloud Foundation Certificate**-*(Ethnotech Academy - A+ Grade)*
+- **Data Science using Python** — *Brainovision Workshop 2024*
+- **3× Learning Path Completions** — *(Coursera / LinkedIn Learning)*
 
 <br/>
 
