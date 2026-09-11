@@ -17,7 +17,7 @@
 <br/>
 
 ### Currently Working On
-> **Exploring explainable AI for social network integrity** — adding an interpretability layer to *LegitiCheck*.
+> **Automating the Sales Dashboard pipeline** — moving from manual Excel prep to a repeatable ETL flow feeding the star-schema model.
 
 <br/>
 
