@@ -29,6 +29,8 @@
 | **ORGAN-DPP** — Molecular Generation | RL-based drug discovery pipeline. | `[RESEARCH]` `Reinforcement Learning` `Python` |
 | **Credit Risk Prediction** | End-to-end Machine Learning model. | `[APPLIED]` `EDA` `XGBoost` |
 | **Business Analytics Dashboard** | Full-spectrum data pipeline, visualization, and actionable insights. | `[APPLIED]` `Data Pipeline` `Visualization` |
+| **Myntra Analytics Dashboard** | Data pipeline, visualization, and actionable insights. | `[APPLIED]` `DAX Query` `Visualization` |
+| **Sales Insight Dashboard** | Orders, Sales, visualization, and actionable insights. | `[APPLIED]` `DAX ` `Power Query` `Visualization` |
 
 <br/>
 
